@@ -1,6 +1,13 @@
 # Sorting-Visualizer
 
-This sorting visualizer is developed in python using tinkter library to design its GUI. 
+This sorting visualizer is developed in python using tinkter library.
+
+The sorting algorithms visualized are:
+* Selection Sort
+* Bubble Sort
+* Merge Sort
+* Quick Sort
+
 
 ## Technology Stack
 * Python
